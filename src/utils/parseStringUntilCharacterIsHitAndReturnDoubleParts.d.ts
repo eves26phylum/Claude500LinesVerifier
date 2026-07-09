@@ -1,3 +1,0 @@
-import { ParseStringUntilCharacterIsHitAndReturnDoublePartsType } from "#types/parseStringUntilCharacterFunctionTyping.js";
-export declare const ParseStringUntilCharacterIsHitAndReturnDoubleParts: ParseStringUntilCharacterIsHitAndReturnDoublePartsType;
-//# sourceMappingURL=parseStringUntilCharacterIsHitAndReturnDoubleParts.d.ts.map
