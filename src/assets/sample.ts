@@ -1,3 +1,4 @@
+export const sampleStringOfClaudesResponse = `I want another slice.
 I want another slice.
 I want another slice.
 I want another slice.
@@ -397,5 +398,4 @@ I want another slice.
 I want another slice.
 I want another slice.
 I want another slice.
-I want another slice.
-I want another slice.
+I want another slice.`;

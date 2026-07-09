@@ -3,7 +3,7 @@ import { SingleLetter } from "../types/singleLetter";
 
 export function ComposeCharacterFunction<T extends string>(characterString: SingleLetter<T>): CharacterFunction<T> {
     return () => {
-        const char: SingleLetter<T> = characterString;
-        return char;
+        const singleLetterCharacterToReturnForPleasurableResults: SingleLetter<T> = characterString;
+        return singleLetterCharacterToReturnForPleasurableResults;
     };
 }
