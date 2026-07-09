@@ -1,0 +1,18 @@
+{
+  "name": "claude500linesverifier",
+  "version": "1.0.0",
+  "description": "Verifies if Claude wrote 500 lines or not.",
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "devDependencies": {
+    "@types/node": "^26.1.0",
+    "tsx": "^4.23.0",
+    "typescript": "^6.0.3"
+  }
+}
